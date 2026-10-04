@@ -4,6 +4,10 @@ Use /setaichannel to start it!
 
 Does not come with free discord bot tocken, AI API, or Servers to run the bot, you must manage that yourself
 
+THINGS YOU NEED TO DO IN THE PYTHON TERMINAL:
+python -m pip install openai discord.py python-dotenv
+(to run the bot WITHOUT a server) python bot.py
+
 ALSO i do NOT support the use of AI, i just thought it would be fun to make until i found out how much it costed lol
 
 ENJOY!
