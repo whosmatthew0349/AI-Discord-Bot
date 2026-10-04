@@ -8,8 +8,11 @@ THINGS YOU NEED TO DO IN THE PYTHON TERMINAL:
 python -m pip install openai discord.py python-dotenv
 (to run the bot WITHOUT a server) python bot.py
 
-Ill prob never update this, so do whatever you want to with it lol
+do whatever you want to with it lol
 
 ALSO i do NOT support the use of AI, i just thought it would be fun to make until i found out how much it costed lol
 
-ENJOY!
+Download the ZIP for all in one, OR each code file (THEY ARE ALL NEEDED TO WORK!!)
+
+Last update: 10/4/2026
+- Gave all files so you can view them without downloading the ZIP
